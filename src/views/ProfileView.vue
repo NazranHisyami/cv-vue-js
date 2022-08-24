@@ -6,6 +6,5 @@ import Footer from '../components/Footer.vue'
 <template>
   <main>
     <IsiProfile/>
-    <Footer></Footer>
   </main>
 </template>

@@ -37,7 +37,7 @@ h3 {
   font-size: 1.2rem;
   font-weight: 500;
   margin-bottom: 0.4rem;
-  color: var(--color-heading);
+  color: black;
   margin-top: 10px;
 }
 
@@ -52,7 +52,7 @@ h3 {
     left: -26px;
     position: absolute;
     border: 1px solid var(--color-border);
-    background: var(--color-background);
+    background: transparent;
     border-radius: 8px;
     width: 50px;
     height: 50px;

@@ -23,7 +23,7 @@ import Profile from './components/Profile.vue';
 header {
   line-height: 1.5;
   max-height: 100vh;
-  text-align: center;
+  /* text-align: center; */
 }
 
 .logo {
@@ -35,12 +35,12 @@ header {
 nav {
   width: 100%;
   font-size: 12px;
-  text-align: center;
+  /* text-align: center; */
   margin-top: 2rem; 
 }
 
 nav a.router-link-exact-active {
-  color: var(--color-text);
+  color: black;
 }
 
 nav a.router-link-exact-active:hover {
@@ -70,7 +70,7 @@ nav a:first-of-type {
   }
 
   header .wrapper {
-    text-align: center;
+    /* text-align: center; */
     display: flex;
     place-items: flex-start;
     flex-wrap: wrap;
